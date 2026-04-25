@@ -60,4 +60,6 @@
 
 ## タイトル案
 1. Git Worktree＋エージェント並列化による
+   1. Worktreeは意義があるのか不明
+      1. https://news.ycombinator.com/item?id=19007761
 2. 
