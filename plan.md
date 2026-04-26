@@ -62,4 +62,6 @@
 1. Git Worktree＋エージェント並列化による
    1. Worktreeは意義があるのか不明
       1. https://news.ycombinator.com/item?id=19007761
+      2. 上のページでも言及されているがストレージの効率化？
+         1. 各 worktree は HEAD や index など一部のファイルを個別に持つが、リポジトリデータは共有する。
 2. 
